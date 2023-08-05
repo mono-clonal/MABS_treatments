@@ -357,6 +357,30 @@ button {
     
 }
 
+.site-navbar ul li a {
+    color: #fef6fc;
+    font-size: 16px;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+.site-navbar ul li {
+    padding-right: 115px;
+}
+
+.site-navbar ul li:last-child {
+    padding-right: 0;
+}
+
+.site-navbar ul li a:hover {
+    color: #00132b;
+}
+.site-navbar ul li a.active {
+    color: #00132b;
+}
+
 /* navbar regular css end */
 
 
